@@ -52,7 +52,7 @@ Ce dépôt rassemble le compte rendu d'un TP de simulation (logiciel **PSIM**) s
 
 <p align="center">
   <img src="assets/figures/fig02b.png" width="700" alt="Figure 02b"><br>
-  <em>Figure 2 : Tension aux bornes de la charge ($V_{charge}$, $V_R$) et courants ($I_{in}$, $I_{out}$).</em>
+  <em>Figure 2 : Tension aux bornes de la charge (V<sub>charge</sub>,V<sub>R</sub>) et courants (I<sub>in</sub>, I<sub>out</sub>).</em>
 </p>
 
 
@@ -79,7 +79,7 @@ Le courant débité par la source de tension DC ($V_{DC}$) devient négatif, don
 
 <p align="center">
   <img src="assets/figures/fig08.png" width="700" alt="Figure 08"><br>
-  <em>Figure 8 : Puissances instantanées côté $V_{DC}$, entre les bras de l'onduleur et côté charge R.</em>
+  <em>Figure 8 : Puissances instantanées côté V<sub>DC</sub>, entre les bras de l'onduleur et côté charge R.</em>
 </p>
 
 
@@ -167,7 +167,7 @@ $$L = 15.28\ \text{mH} \qquad\text{et}\qquad C = 6.63\ \mu\text{F}$$
 
 <p align="center">
   <img src="assets/figures/fig16.png" width="700" alt="Figure 16"><br>
-  <em>Figure 16 : Courant débité par la source $V_{DC}$.</em>
+  <em>Figure 16 : Courant débité par la source V<sub>DC</sub>.</em>
 </p>
 
 
@@ -183,7 +183,7 @@ $$L = 15.28\ \text{mH} \qquad\text{et}\qquad C = 6.63\ \mu\text{F}$$
 
 <p align="center">
   <img src="assets/figures/fig18.png" width="700" alt="Figure 18"><br>
-  <em>Figure 18 : FFT de la tension aux bornes de la charge ($V_R$) et de la tension entre les bras de pont ($V_{charge}$).</em>
+  <em>Figure 18 : FFT de la tension aux bornes de la charge (V<sub> R</sub>) et de la tension entre les bras de pont (V<sub> charge</sub>).</em>
 </p>
 
 
@@ -207,7 +207,7 @@ Le filtre LC fonctionne comme prévu : il supprime les harmoniques au-delà de s
 
 <p align="center">
   <img src="assets/figures/fig21.png" width="700" alt="Figure 21"><br>
-  <em>Figure 21 : Tension entre bras de pont $V_{charge}$ et aux bornes de la charge $V_R$ (commandes décalées).</em>
+  <em>Figure 21 : Tension entre bras de pont V<sub>charge </sub> et aux bornes de la charge V<sub>R </sub> (commandes décalées).</em>
 </p>
 
 
@@ -219,7 +219,7 @@ Le filtre LC fonctionne comme prévu : il supprime les harmoniques au-delà de s
 
 <p align="center">
   <img src="assets/figures/fig23.png" width="700" alt="Figure 23"><br>
-  <em>Figure 23 : Courant débité par la source $V_{DC}$ (commandes décalées).</em>
+  <em>Figure 23 : Courant débité par la source V<sub>DC </sub> (commandes décalées).</em>
 </p>
 
 
@@ -235,7 +235,7 @@ Le filtre LC fonctionne comme prévu : il supprime les harmoniques au-delà de s
 
 <p align="center">
   <img src="assets/figures/fig25.png" width="700" alt="Figure 25"><br>
-  <em>Figure 25 : FFT de la tension aux bornes de la charge ($V_R$) et de la tension entre les bras de pont ($V_{charge}$) (commandes décalées).</em>
+  <em>Figure 25 : FFT de la tension aux bornes de la charge (V<sub>R </sub>) et de la tension entre les bras de pont (V<sub>charge </sub>) (commandes décalées).</em>
 </p>
 
 
@@ -287,31 +287,31 @@ $$\delta\alpha = \frac{\sqrt{110^2 + (0.01 \times 2\pi \times 60 \times 18.18)^2
 
 <p align="center">
   <img src="assets/figures/fig29.png" width="700" alt="Figure 29"><br>
-  <em>Figure 29 : Tension $V_1$ et courant $I(L_1)$ en boucle ouverte.</em>
+  <em>Figure 29 : Tension V<sub>1 </sub> et courant I<sub>L1 </sub>) en boucle ouverte.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig30.png" width="700" alt="Figure 30"><br>
-  <em>Figure 30 : Tension $V_o$ (entre bras) et sa version filtrée $V_{o\_filtre}$.</em>
+  <em>Figure 30 : Tension V<sub>o</sub> (entre bras) et sa version filtrée V<sub>o_filtre </sub>.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig31.png" width="700" alt="Figure 31"><br>
-  <em>Figure 31 : Courant $I_{DC}$ et sa version filtrée $I_{DC\_filtre}$.</em>
+  <em>Figure 31 : Courant I<sub>DC </sub> et sa version filtrée I<sub>DC_filtre</sub>.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig32.png" width="700" alt="Figure 32"><br>
-  <em>Figure 32 : Puissance moyenne $\langle V_1 \cdot I(L_1) \rangle$ côté réseau, courant $I(L_1)$ et tension $V_1$.</em>
+  <em>Figure 32 : Puissance moyenne côté réseau, courant I<sub>L 1</sub> et tension V<sub>1 </sub>.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig33.png" width="700" alt="Figure 33"><br>
-  <em>Figure 33 : Tension du bus continu $V_{DC\_bus}$, courant $I_{DC}$ et puissance moyenne $\langle I_{DC} \cdot V_{DC\_bus} \rangle$.</em>
+  <em>Figure 33 : Tension du bus continu V<sub>DC_bus </sub>, courant I<sub>DC </sub> et puissance moyenne.</em>
 </p>
 
 
@@ -331,25 +331,25 @@ $$\delta\alpha = \frac{\sqrt{110^2 + (0.01 \times 2\pi \times 60 \times 18.18)^2
 
 <p align="center">
   <img src="assets/figures/fig36.png" width="700" alt="Figure 36"><br>
-  <em>Figure 36 : Courant $I(L_1)$ et tension $V_1$ en régime établi.</em>
+  <em>Figure 36 : Courant I<sub>L1 </sub> et tension V<sub>1 </sub> en régime établi.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig37.png" width="700" alt="Figure 37"><br>
-  <em>Figure 37 : Courant $I(L_1)$ et tension $V_1$ (échelle de temps plus large).</em>
+  <em>Figure 37 : Courant I<sub>L1 </sub> et tension V<sub>1 </sub> (échelle de temps plus large).</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig38.png" width="700" alt="Figure 38"><br>
-  <em>Figure 38 : Puissance moyenne $\langle V_{DC\_bus} \cdot I_{DC} \rangle$.</em>
+  <em>Figure 38 : Puissance moyenne.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig39.png" width="700" alt="Figure 39"><br>
-  <em>Figure 39 : Tension du bus continu $V_{DC\_bus}$ (ondulation autour de 500 V).</em>
+  <em>Figure 39 : Tension du bus continu V<sub>DC_bus </sub> (ondulation autour de 500 V).</em>
 </p>
 
 
@@ -365,13 +365,13 @@ $$\delta\alpha = \frac{\sqrt{110^2 + (0.01 \times 2\pi \times 60 \times 18.18)^2
 
 <p align="center">
   <img src="assets/figures/fig41.png" width="700" alt="Figure 41"><br>
-  <em>Figure 41 : Tension du bus continu, courant $I(L_1)$ et tension $V_1$ (charge 125 Ω).</em>
+  <em>Figure 41 : Tension du bus continu, courant I<sub>L1 </sub> et tension V<sub>1 </sub> (charge 125 Ω).</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig42.png" width="700" alt="Figure 42"><br>
-  <em>Figure 42 : Tension du bus continu, courant, tension $V_1$ et puissance moyenne (charge 125 Ω).</em>
+  <em>Figure 42 : Tension du bus continu, courant, tension V<sub>1 </sub> et puissance moyenne (charge 125 Ω).</em>
 </p>
 
 
@@ -379,13 +379,13 @@ $$\delta\alpha = \frac{\sqrt{110^2 + (0.01 \times 2\pi \times 60 \times 18.18)^2
 
 <p align="center">
   <img src="assets/figures/fig43.png" width="700" alt="Figure 43"><br>
-  <em>Figure 43 : Tension du bus continu, courant $I(L_1)$ et tension $V_1$ (charge 250 Ω).</em>
+  <em>Figure 43 : Tension du bus continu, courant V<sub>L1 </sub> et tension V<sub>1 </sub> (charge 250 Ω).</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig44.png" width="700" alt="Figure 44"><br>
-  <em>Figure 44 : Tension du bus continu, courant, tension $V_1$ et puissance moyenne (charge 250 Ω).</em>
+  <em>Figure 44 : Tension du bus continu, courant, tension V<sub>1 </sub> et puissance moyenne (charge 250 Ω).</em>
 </p>
 
 
@@ -470,7 +470,7 @@ $$U_{eff} = \frac{\sqrt{3}}{\sqrt{2}}\, \delta\alpha\, V_{DC}$$
 
 <p align="center">
   <img src="assets/figures/fig54.png" width="550" alt="Figure 54"><br>
-  <em>Figure 54 : $U_{eff\_filtrée}$ en fonction de $\delta\alpha$.</em>
+  <em>Figure 54 : $U_{eff\_filtrée}$ en fonction de &delta;&alpha;.</em>
 </p>
 
 
