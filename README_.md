@@ -19,8 +19,6 @@ Ce dépôt rassemble le compte rendu d'un TP de simulation (logiciel **PSIM**) s
 - **Onduleur monophasé** : commande pleine onde, MLI à commandes complémentaires totales, MLI à commandes décalées, dimensionnement du filtre LC de sortie, et fonctionnement réversible redresseur/onduleur avec asservissement (boucles de courant et de tension).
 - **Onduleur triphasé** : charge RL, influence de $\delta\alpha$, de $\alpha_0$ et de la fréquence de découpage, puis machine asynchrone (démarrage, temps d'accélération, inversion du sens de rotation).
 
-La version PDF d'origine est disponible dans [`docs/`](docs/TP_Onduleurs_MUNOZ_BEKRI.pdf).
-
 ## Sommaire
 
 1. [Onduleur monophasé](#1-onduleur-monophasé)
