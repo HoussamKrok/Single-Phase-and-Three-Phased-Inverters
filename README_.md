@@ -40,19 +40,19 @@ Ce dépôt rassemble le compte rendu d'un TP de simulation (logiciel **PSIM**) s
 
 <p align="center">
   <img src="assets/figures/fig01.png" width="600" alt="Figure 01"><br>
-  <em>Figure 1 : Schéma de puissance d'un onduleur monophasé avec une charge RL sur PSIM.</em>
+  <em>Figure 0 : Schéma de puissance d'un onduleur monophasé avec une charge RL sur PSIM.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig02.png" width="600" alt="Figure 02"><br>
-  <em>Figure 2 : Partie contrôle/commande du schéma de puissance.</em>
+  <em>Figure 1 : Partie contrôle/commande du schéma de puissance.</em>
 </p>
 
 
 <p align="center">
   <img src="assets/figures/fig02b.png" width="700" alt="Figure 02b"><br>
-  <em>Figure 2 bis : Tension aux bornes de la charge ($V_{charge}$, $V_R$) et courants ($I_{in}$, $I_{out}$).</em>
+  <em>Figure 2 : Tension aux bornes de la charge ($V_{charge}$, $V_R$) et courants ($I_{in}$, $I_{out}$).</em>
 </p>
 
 
